@@ -2,7 +2,7 @@
 <!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
 <X3D xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance' profile='Full' version='3.0' xsd:noNamespaceSchemaLocation='http://www.web3d.org/specifications/x3d-3.0.xsd'>
 	<head>
-		<meta name="filename" content="coke.x3d" />
+		<meta name="filename" content="fanta.x3d" />
 		<meta name="generator" content="Blender 3.1.2" />
 	</head>
 	<Scene>
@@ -12,16 +12,16 @@
 		                avatarSize="0.25, 1.75, 0.75"
 						DEF="headlight"
 		                />
-						<!-- 实际上是正面 -->
+						
 						<Viewpoint DEF='CameraFront' description='CameraFront' orientation='0 0 -1 -0.007317' position='0 1 10' fieldOfView='0.5274'/>
 
-						<!-- 实际上是右面 -->
+						
 						<Viewpoint DEF='CameraRight' description='CameraRight' orientation='0 -1 0 -1.5710' position='10 1 0' fieldOfView='0.5274'/>
 
-						<!-- 实际上是背面 -->
+						
 						
 						<Viewpoint DEF='CameraBack' description='CameraBack' orientation='0 -1 0 -3.1420' position='0 1 -10' fieldOfView='0.5274'/>
-						<!-- 实际上是左面 -->
+						
 						<Viewpoint DEF='CameraLeft' description='CameraLeft' orientation='0 1.0 0 -1.5710' position='-10 1 0' fieldOfView='0.5274'/>
 						
 
